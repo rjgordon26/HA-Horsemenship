@@ -30,13 +30,16 @@
 }
 
 h5 {
-    color: teal;
+    color: black;
     font-size: 150%;
+    font-family: "Brush Script M7", "Lucida Handwriting", cursive;
 }
 
 h1 {
-    color: teal;
-    font-size: 150%;
+    color: black;
+    font-size: 200%;
+    /* font-family: "Times New Roman", Times, serif; */
+    font-family: "Brush Script M7", "Lucida Handwriting", cursive;
 }
 
 .Driveway {
@@ -94,12 +97,16 @@ form {
 }
 
 h2 {
-    color: teal;
+    color: black;
     padding: 15px;
+    font-size: 300%;
+    font-family: "Brush Script M7", "Lucida Handwriting", cursive;
+    margin-top: 50px;
+    /* font-family: "Lucida Console", "Courier New", monospace; */
 }
 
 #SubmitButton {
-    background-color: teal;
+    background-color: rgba(0, 89, 255, 0.993);
 }
 
 #staticEmail {
@@ -113,21 +120,22 @@ h2 {
 
 .footer {
     /* background-color: grey; */
-    margin-top: auto;
+    margin-top: 70px;
     /* height: 50px; */
     /* text-align: center; */
     /* position: fixed; */
    left: 0;
-   bottom: 0;
+   /* bottom: 10px; */
    width: 100%;
    /* background-color: grey; */
-   color: teal;
+   color: black;
    text-align: center;
+   /* margin-bottom: 30%; */
 }
 
 h3 {
     padding: 15px;
-    color: teal;
+    color: black;
 
 
 }
