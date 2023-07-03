@@ -151,10 +151,11 @@ h3 {
 h6 {
     padding: 5px;
 }
-.media-body {
+
+/* .media-body {
     text-align: center;
     padding: 5px;
-}
+} */
 
 .form-group {
     padding: 5px;
@@ -181,8 +182,43 @@ h6 {
   }
 
   .rainbow {
-    float: right;
-    margin-left: 20px;
-    clear: right;
+    /* float: right; */
+    margin-left: 600px;
+    /* clear: right; */
+    /* display: flex; */
+    /* align-items: center; */
   }
+
+  .col {
+    text-align: center;
+  }
+
+  .training {
+    text-align: center;
+    padding: 150px;
+  }
+
+  /* .navbar {
+    float: right;
+  } */
+
+  .nav-link {
+    padding: 20px;
+  }
+
+  /* #triple1 {
+    text-align: left;
+  } */
+
+  .drive1 {
+    float: right;
+    border-radius: 50%;
+
+  }
+
+  .train1 {
+    border-radius: 50%;
+  }
+
+
 
