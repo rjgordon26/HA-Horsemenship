@@ -90,8 +90,12 @@ h2 {
     font-size: 350%;
     font-family: "Times New Roman", Times, serif;
     /* font-family: "Brush Script M7", "Lucida Handwriting", cursive; */
-    margin-top: 50px;
+    margin-top: 30px;
     /* font-family: "Lucida Console", "Courier New", monospace; */
+}
+
+.hahorse {
+  margin-top: -10px;
 }
 
 #SubmitButton {
@@ -262,6 +266,7 @@ h6 {
 
   .nav-link {
     padding: 20px;
+    text-align: center;
   }
 
   .drive1 {
@@ -291,7 +296,37 @@ h6 {
   .title {
     font-weight: 900;
     font-family: "Times New Roman", Times, serif;
-    font-size: large;
+    font-size: x-large;
+    float: left;
+    margin-left: 60px;
+  }
+
+  .title2 {
+    float: left;
+    margin-left: 60px;
+    text-align: left;
+  }
+
+  .board1 {
+    text-align: center;
+    font-weight: bolder;
+    font-family: "Times New Roman", Times, serif;
+    font-size: xx-large;
+    margin: 10px;
+    padding: 10px;
+    font-style: italic;
+  }
+
+  .board2 {
+    text-align: center;
+    margin: 40px;
+    /* padding: 3px; */
+  }
+
+  .board3 {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
   }
 
 
