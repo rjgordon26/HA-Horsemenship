@@ -329,5 +329,21 @@ h6 {
     font-style: italic;
   }
 
+  .contactDrive {
+    float: right;
+    width: 500px;
+    height: 400px;
+  }
+
+  .hads {
+    margin-left: 25px;
+    font-weight: bold;
+  }
+
+  .hads2 {
+    margin-left: 25px;
+    font-style: italic;
+  }
+
 
 
